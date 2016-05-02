@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
+#
 .clearfix {
   *zoom: 1;
 }
@@ -13,3 +14,30 @@
 .clearfix:after {
   clear: both;
 }
+
+.verde {
+	background-color: #2ECC71;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-white {
+	color: white;
+}
+ ul {
+ 	list-style-type: none;
+ }
+
+ul li {
+	display: inline-block;
+	margin: 8% 2%;
+	float: right;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
