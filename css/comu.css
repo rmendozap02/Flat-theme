@@ -1,0 +1,50 @@
+.heart{
+	color:#55B373;
+}
+.b-h{
+	background-color: #2C435A;
+	color:white;
+
+}
+.navbar-default{
+	background-color:#2C435A;
+	border-color:#2C435A;
+	margin-top: 10px;
+}
+
+.enlace:hover{
+	background-color: #AEB0E9;
+	border:2px solid #898AB8;
+	border-radius: 20px;
+
+}
+.left-t{
+	text-align: right;
+}
+footer{
+	background-color:#2C435A;
+	color:white;
+}
+.navbar-form{
+	padding:0;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+#footer{
+	background-color: #242838;
+	color:white;
+	height: 50px;
+	padding-top: 10px;
+}
+ul li{
+	display: inline-block;
+	margin-left: 10px; 
+}
+.gol{
+	background-color: #DC3C3C;
+}
+.btn-default{
+	border-color: #DC3C3C ;
+	color:white;
+}
