@@ -1,8 +1,12 @@
 .heart{
 	color:#55B373;
 }
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
 .b-h{
-	background-color: #2C435A;
+	background-color:#2C435A;
 	color:white;
 
 }
@@ -23,7 +27,11 @@
 }
 footer{
 	background-color:#2C435A;
-	color:white;
+	color:#DFE7E5;
+}
+
+h4{
+	font-family: 'PT Serif', serif;
 }
 .navbar-form{
 	padding:0;
