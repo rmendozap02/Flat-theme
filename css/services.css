@@ -1,0 +1,70 @@
+#center{
+	text-align: center;
+}
+.gris{
+	color:#1B1C3C;
+}
+#abajo{
+	margin-bottom: 40px;
+}
+.fa-windows {
+	background-color: #939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+.fa-android{
+	background-color:#939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+.fa-apple{
+	background-color: #939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.fa-linux{
+	background-color:#939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+.fa-dribbble{
+	background-color:#939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+.fa-google-plus{
+	background-color: #939393;
+	border-radius: 360px;
+	padding: 14px;
+	color:white;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 30px;
+}
