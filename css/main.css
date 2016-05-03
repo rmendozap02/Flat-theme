@@ -18,9 +18,18 @@ h2{
 	background-color: #DC3C3C;
 
 }
+
 .mayor1{
 	background-color: #DC3C3C;
 	margin-left: -9px;
+
+}
+.linea{
+	width: 4px;
+	height: 80px;
+	background-color: white;
+	margin-top: 12px;
+	margin-left: 100%;
 
 }
 #b-red1{
@@ -29,7 +38,7 @@ h2{
 	padding: 20px;
 }
 .cuadro{
-	height: 150px;
+	height: 190px;
 	margin-bottom: 60px;
 	width: 100%;
 }
