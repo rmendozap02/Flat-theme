@@ -10,6 +10,9 @@
 	color:white;
 
 }
+.text-white {
+	color: white;
+}
 .navbar-default{
 	background-color:#2C435A;
 	border-color:#2C435A;
@@ -33,6 +36,11 @@ footer{
 h4{
 	font-family: 'PT Serif', serif;
 }
+.verde {
+	background-color: #2ECC71;
+	margin-bottom: 40px;
+}
+
 .navbar-form{
 	padding:0;
 	margin-right: 0;
@@ -48,6 +56,7 @@ h4{
 ul li{
 	display: inline-block;
 	margin-left: 10px; 
+	color:white;
 }
 .gol{
 	background-color: #DC3C3C;
