@@ -13,3 +13,6 @@
 .clearfix:after {
   clear: both;
 }
+.background{
+	background-image: url(../images/slinder/bg1.jpg);
+}
