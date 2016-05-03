@@ -8,7 +8,60 @@
 h2{
 	margin-top: 200px;
 }
+#b-red{
+	background-color: #DC5645;
+	color:white;
+	text-align: center;
+	padding-top: 20px;
+}
+.mayor{
+	background-color: #DC3C3C;
+
+}
+.mayor1{
+	background-color: #DC3C3C;
+	margin-left: -9px;
+
+}
+#b-red1{
+	background-color: #DC5645;
+	color:white;
+	padding: 20px;
+}
 .cuadro{
-	height: 170px;
+	height: 150px;
+	margin-bottom: 60px;
+	width: 100%;
+}
+.verde{
+	padding: 40px;
+}
+.fa-twitter {
+	background-color: #667666;
+	border-radius: 360px;
+	color:white;
+	padding: 12px;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	
+}
+.fa-facebook {
+	background-color: #667666;
+	border-radius: 360px;
+	padding: 12px;
+	color:white;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+}
+.fa-google-plus {
+	background-color:#667666;
+	border-radius: 360px;
+	padding: 12px;
+	color:white;
+	width: 40px;
+	height: 40px;
+	text-align: center;
 }
 
