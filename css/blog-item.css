@@ -1,3 +1,28 @@
+.gris1{
+	padding:10px;
+	background-color: #F5F5F5;
+	margin-top:10px;
+}
+.margen{
+	margin-bottom:20px;
+}
+ul{
+	margin-left: -30px;
+}
+hr{
+	height: 1px;
+	background-color: #999999;
+}
+.cuadro{
+	margin-top:20px;
+}
+.img-circle{
+	width: 130%;
+	margin-top:10px;
+}
+p{
+	font-size:13px;
+}
 .PD-top {
 	padding-top: 30px;
 }
