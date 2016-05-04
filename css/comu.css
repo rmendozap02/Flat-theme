@@ -1,6 +1,9 @@
 #buscador{
 	margin-left: -15px;
 	margin-right: -15px;
+} 
+.navbar-default .navbar-nav>li>a{
+	color:white;
 }
 .verde {
 	background-color: #2ECC71;
@@ -20,6 +23,10 @@
 .b-h{
 	background-color:#34495e;
 	color:white;
+
+}
+.navbar-default{
+	border-color:#34495e !important;
 
 }
 .text-white {
@@ -49,7 +56,7 @@ footer{
 	display: inline-block;
 	margin: 8% 2%;
 	float: right;
-	height: 70px;
+	height: 10px;
 	color:white;
 }
 .text-left {
