@@ -10,6 +10,10 @@
 	padding-left: 15px;
 }
 
+.PD {
+	padding: 5px;
+}
+
 .Blanco {
 	background-color: white;
 }
@@ -39,6 +43,15 @@ img {
 	border-radius: 10px;
 }
 
-.rec {
-	max-width: 100%;
+.rec span {
+	display: table;
+	margin-top: 30px,
+}
+
+.txaz {
+	color: #10104E;
+}
+
+.Blog h5 {
+	display: inline-block;
 }
