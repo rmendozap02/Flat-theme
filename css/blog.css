@@ -1,0 +1,57 @@
+.PD-top {
+	padding-top: 30px;
+}
+
+.PD-b {
+	padding-bottom: 30px;
+}
+
+.PD-left {
+	padding-left: 15px;
+}
+
+.PD {
+	padding: 5px;
+}
+
+.Blanco {
+	background-color: white;
+}
+
+img {
+	width: 100%;
+}
+
+.Opc ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.Opc li {
+	float: left;
+	margin-right: 60px;
+}
+
+.Blanco h1 {
+	font-size: 30px;
+}
+.foto {
+	margin-top: 15px;
+}
+.foto img {
+	margin: 15px 5px;
+	border-radius: 10px;
+}
+
+.rec span {
+	display: table;
+	margin-top: 30px,
+}
+
+.txaz {
+	color: #10104E;
+}
+
+.Blog h5 {
+	display: inline-block;
+}
