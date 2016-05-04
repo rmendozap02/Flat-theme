@@ -1,3 +1,7 @@
+#buscador{
+	margin-left: -15px;
+	margin-right: -15px;
+}
 .verde {
 	background-color: #2ECC71;
 }
@@ -88,7 +92,4 @@ ul li{
 .gol{
 	background-color: #DC3C3C;
 }
-.btn-default{
-	border-color: #DC3C3C ;
-	color:white;
-}
+
